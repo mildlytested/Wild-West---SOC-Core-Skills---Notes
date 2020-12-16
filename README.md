@@ -1,10 +1,10 @@
 # Wild-West---SOC-Core-Skills---Notes
-links collected from SOC Core Skills class, December 14 to 18, 2020.
+links collected from SOC Core Skills class, December 14 to 17, 2020.
 
 [SOC Core Skills w/ John Strand](https://wildwesthackinfest.com/training/soc-core-skills-john-strand/)
 
 
-## Links
+## Links from Day 1 and Day 2
 
 * [strandjs/IntroLabs: These are the labs for my Intro class(Yes, this is public. Yes, this is intentional.](https://github.com/strandjs/IntroLabs)
 * [Home - PingCastle](https://www.pingcastle.com/)
@@ -103,6 +103,10 @@ links collected from SOC Core Skills class, December 14 to 18, 2020.
 * [Blue Team News (@blueteamsec1) / Twitter](https://twitter.com/blueteamsec1)
 * [CybatiWorks - CybatiWorks for Applied Research and Development](https://cybati.org/index.php/cybatiworks-for-applied-research-and-development)
 
+## Links from Day 3
 
+
+
+## Links from Day 4
 
 
