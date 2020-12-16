@@ -185,6 +185,21 @@ Memory Forensics
 * [gcla/termshark: A terminal UI for tshark, inspired by Wireshark](https://github.com/gcla/termshark)
 * [AMF | memoryanalysis](https://www.memoryanalysis.net/amf)
 
+Egress Traffic Analysis
+
+* [LOLBAS](https://lolbas-project.github.io/)
+* [WADComs](https://wadcoms.github.io/)
+* [Webcast: Attack Tactics 7 - The Logs You Are Looking For - Black Hills Information Security](https://www.blackhillsinfosec.com/webcast-attack-tactics-7-the-logs-you-are-looking-for/)
+* [Cyber Threat Hunting | Chris Brenton | October 2020 | 4 Hours - YouTube](https://www.youtube.com/watch?v=FzYPT1xTVHY)
+* [Pi-hole – Network-wide protection](https://pi-hole.net/)
+* [BPF: A New Type of Software](http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html)
+* [salesforce/ja3: JA3 is a standard for creating SSL client fingerprints in an easy to produce and shareable way.](https://github.com/salesforce/ja3)
+* [Raspberry Pi sensors for home networks - YouTube](https://www.youtube.com/watch?v=5gL7Ug9H2RE)
+* [Corelight@Home](https://www3.corelight.com/nsm@home)
+* [How to use a Raspberry Pi as a Network Sensor - Bill  Stearns - YouTube](https://www.youtube.com/watch?v=vja_H59fh1I)
+* [The Practice of Network Security Monitoring | No Starch Press](https://nostarch.com/nsm)
+* [Real Intelligence Threat Analytics (RITA) Overview &  AI-Hunter Demo - YouTube](https://www.youtube.com/watch?v=h8KNyhSMoig)
+
 
 ## Links from Day 4
 
