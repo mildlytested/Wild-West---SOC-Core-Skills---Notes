@@ -105,6 +105,56 @@ links collected from SOC Core Skills class, December 14 to 17, 2020.
 
 ## Links from Day 3
 
+* [Free Firewall for Home Edition | Sophos Home Firewall](https://www.sophos.com/en-us/products/free-tools/sophos-xg-firewall-home-edition.aspx)
+* [13Cubed Episode Guide](https://www.13cubed.com/episodes/all.html)
+* [SRUM forensics](https://digital-forensics.sans.org/summit-archives/file/summit-archive-1492184583.pdf)
+* [Another Forensics Blog: Triage Collection and Timeline Generation with KAPE](https://az4n6.blogspot.com/2019/08/triage-collection-and-timeline.html)
+* [Introduction to DFIR(One of my favorite things is talking to… | by Scott J Roberts | Medium](https://sroberts.medium.com/introduction-to-dfir-d35d5de4c180)
+* [Autopsy and Cyber Triage DFIR Training](https://dfir-training.basistech.com/collections)
+* [The DFIR Report - Real Intrusions by Real Attackers, The Truth Behind the Intrusion](https://thedfirreport.com/)
+* [Firewalla | Firewalla: Cybersecurity Firewall For Your Family and Business](https://firewalla.com/)
+* [Cyber Triage - Online Incident Response Training with Brian Carrier](https://www.cybertriage.com/training/)
+* [Protectli: Trusted Firewall Appliances with Firmware Protection](https://protectli.com/)
+* [Download VMware vSphere Hypervisor for Free](https://my.vmware.com/en/web/vmware/evalcenter?p=free-esxi7)
+* [LabGopher :: Great server deals on eBay](https://www.labgopher.com/)
+* [Sophos Free Demos: Next Generation Security Solutions](https://www.sophos.com/en-us/products/demos.aspx)
+* [Hackers used SolarWinds' dominance against it in sprawling spy campaign | Reuters](https://www.reuters.com/article/global-cyber-solarwinds/hackers-used-solarwinds-dominance-against-it-in-sprawling-spy-campaign-idUSKBN28Q07P)
+* [How the SolarWinds Hackers Bypassed Duo’s Multi-Factor   Authentication - Schneier on Security](https://www.schneier.com/blog/archives/2020/12/how-the-solarwinds-hackers-bypassed-duo-multi-factor-authentication.html)
+
+Networking
+
+* [tcpdump-cheat-sheet.jpg (2500×1803)](https://cdn.comparitech.com/wp-content/uploads/2019/06/tcpdump-cheat-sheet.jpg)
+* [Getting Started With TCPDump - Black Hills Information  Security](https://www.blackhillsinfosec.com/getting-started-with-tcpdump/)
+* [Visio-tcpdump.vsd](https://packetlife.net/media/library/12/tcpdump.pdf)
+* [ASCII - Wikipedia](https://en.wikipedia.org/wiki/ASCII)
+* [Why use a named pipe instead of a file? - Ask Ubuntu](https://askubuntu.com/questions/449132/why-use-a-named-pipe-instead-of-a-file)
+* [Using ping to exfiltrate data](https://www.bengrewell.com/2019/01/01/slipping-out-through-the-front-door/)
+* [Malware-Traffic-Analysis.net](https://malware-traffic-analysis.net/)
+* [Practical Packet Analysis, 3rd Edition | No Starch Press](https://nostarch.com/packetanalysis3)
+* [tcpdump101.com - Build PCap Syntax Online](https://tcpdump101.com/)
+* [Getting Started With Wireshark - Black Hills Information Security](https://www.blackhillsinfosec.com/getting-started-with-wireshark/)
+* [A tcpdump Tutorial with Examples — 50 Ways to Isolate Traffic | Daniel Miessler](https://danielmiessler.com/study/tcpdump/)
+* [tcpdump.pdf](https://wiki.sans.blue/Tools/pdfs/tcpdump.pdf)
+* [Microsoft Word - SEC503HANDOUT_TCPIP_RG_E01_01](https://www.sans.org/security-resources/tcpip.pdf?msc=Cheat+Sheet+Blog)
+* [Wireshark Tutorial: Identifying Hosts and Users](https://unit42.paloaltonetworks.com/using-wireshark-identifying-hosts-and-users/)
+* [Malware-Traffic-Analysis.net - Traffic Analysis Exercises](https://www.malware-traffic-analysis.net/training-exercises.html)
+* [wizardzines](https://wizardzines.com/zine-index/)
+* [Brim](https://www.brimsecurity.com/)
+* [Wireshark Tutorial: Decrypting HTTPS Traffic (Includes SSL and TLS)](https://unit42.paloaltonetworks.com/wireshark-tutorial-decrypting-https-traffic/)
+* [Scapy](https://scapy.net/)
+* [Packet Analysis | Chris Sanders](https://chrissanders.org/category/packet-analysis/)
+* [GDPR Summary - An overview of the General Data Protection Act](https://www.gdprsummary.com/gdpr-summary/)
+* [The Zeek Network Security Monitor](https://zeek.org/)
+* [how to make IP geolocation map using WireShark - kalitut](https://kalitut.com/geoip-map-wireshark/)
+* [Malware of the Day Archives - Active Countermeasures](https://www.activecountermeasures.com/category/malware-of-the-day/)
+* [Malware-Traffic-Analysis.net](https://www.malware-traffic-analysis.net/)
+* [Decrypting and analyzing HTTPS traffic without MITM – Silent Signal Techblog](https://blog.silentsignal.eu/2020/05/04/decrypting-and-analyzing-https-traffic-without-mitm/)
+* [Getting started with TCPDump - John Strand - YouTube](https://www.youtube.com/watch?v=hC3ANnUXn_o)
+* [Chappell University | Certification](https://www.chappell-university.com/certification)
+* [Notable Privacy and Security Books 2020 - TeachPrivacy](https://teachprivacy.com/notable-privacy-and-security-books-2020/)
+
+Memory Forensics
+
 
 
 ## Links from Day 4
