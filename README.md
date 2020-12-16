@@ -152,9 +152,38 @@ Networking
 * [Getting started with TCPDump - John Strand - YouTube](https://www.youtube.com/watch?v=hC3ANnUXn_o)
 * [Chappell University | Certification](https://www.chappell-university.com/certification)
 * [Notable Privacy and Security Books 2020 - TeachPrivacy](https://teachprivacy.com/notable-privacy-and-security-books-2020/)
+* [ntopng – ntop](https://www.ntop.org/products/traffic-analysis/ntop/)
+* [Cisco Certified CyberOps Associate - Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/cyberops-associate.html)
 
 Memory Forensics
 
+* [editcap - The Wireshark Network Analyzer 3.4.1](https://www.wireshark.org/docs/man-pages/editcap.html)
+* [Security for Professionals](https://www.greycortex.com/)
+* [Understanding IP Addressing and CIDR Charts — RIPE Network Coordination Centre](https://www.ripe.net/about-us/press-centre/understanding-ip-addressing)
+* [robcowart/elastiflow: Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack](https://github.com/robcowart/elastiflow)
+* [SampleCaptures - The Wireshark Wiki](https://wiki.wireshark.org/SampleCaptures)
+* [CyberChef](https://gchq.github.io/CyberChef/)
+* [Powershell: Encode and decode Base64 strings](https://michlstechblog.info/blog/powershell-encode-and-decode-base64-strings/)
+* [TLS Fingerprinting with JA3 and JA3S | by John Althouse | Salesforce Engineering](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967)
+* [clong/DetectionLab: Automate the creation of a lab environment complete with security tooling and logging best practices](https://github.com/clong/DetectionLab)
+* [Packet Diagrams in Wireshark - YouTube](https://www.youtube.com/watch?v=qdd_8462cHI)
+* [brimsec/zq: Search and analysis tooling for structured logs](https://github.com/brimsec/zq)
+* [Office 95 Excel 4 Macros](https://isc.sans.edu/forums/diary/Office+95+Excel+4+Macros/26876/)
+* [RITA - Black Hills Information Security](https://www.blackhillsinfosec.com/projects/rita/)
+* [SIEMonster | Affordable Security Monitoring Software Solution](https://siemonster.com/)
+* [PacketTotal - A free, online PCAP analysis engine](https://www.packettotal.com/)
+* [Link-Local Multicast Name Resolution - Wikipedia](https://en.wikipedia.org/wiki/Link-Local_Multicast_Name_Resolution)
+* [Releases | volatilityfoundation](https://www.volatilityfoundation.org/releases)
+* [Product Downloads | AccessData](https://accessdata.com/product-download)
+* [fireeye/win10_volatility: An advanced memory forensics framework](https://github.com/fireeye/win10_volatility)
+* [2020 Agenda - OSDFCon](https://www.osdfcon.org/2020-event/2020-agenda/)
+* [Belkasoft RAM Capturer: Volatile Memory Acquisition Tool](https://belkasoft.com/ram-capturer)
+* [CheatSheet_v2.4](https://downloads.volatilityfoundation.org/releases/2.4/CheatSheet_v2.4.pdf)
+* [Mimikatz – Active Directory Security](https://adsecurity.org/?page_id=1821)
+* [Memory Forensics Cheat Sheet](https://www.dfir.training/memory-cheats/320-memory-forensics-cheat-sheet-v1-2/file)
+* [Six Facts about Address Space Layout Randomization on Windows | FireEye Inc](https://www.fireeye.com/blog/threat-research/2020/03/six-facts-about-address-space-layout-randomization-on-windows.html)
+* [gcla/termshark: A terminal UI for tshark, inspired by Wireshark](https://github.com/gcla/termshark)
+* [AMF | memoryanalysis](https://www.memoryanalysis.net/amf)
 
 
 ## Links from Day 4
