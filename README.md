@@ -204,3 +204,76 @@ Egress Traffic Analysis
 ## Links from Day 4
 
 
+
+
+
+
+
+
+
+
+* [cyber.dhs.gov - Emergency Directive 21-01](https://cyber.dhs.gov/ed/21-01/)
+* [SANS Emergency Webcast: What you need to know about the SolarWinds Supply-Chain Attack - SANS Institute](https://www.sans.org/webcasts/emergency-webcast-about-solarwinds-supply-chain-attack-118015)
+* [ET Pro Telemetry edition — OPNsense documentation](https://docs.opnsense.org/manual/etpro_telemetry.html)
+* [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
+* [Advanced Persistent Threat Actors Targeting U.S(Think Tanks | CISA](https://us-cert.cisa.gov/ncas/alerts/aa20-336a)
+* [JPCERTCC/LogonTracer: Investigate malicious Windows logon by visualizing and analyzing Windows event log](https://github.com/JPCERTCC/LogonTracer)
+* [Neo4j Graph Platform – The Leader in Graph Databases](https://neo4j.com/)
+* [Defenders think in lists(Attackers think in graphs. As long as this is true, attackers win. | Microsoft Docs](https://docs.microsoft.com/en-us/archive/blogs/johnla/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win)
+* [Security Researcher Reveals Solarwinds' Update Server  Was 'Secured' With The Password 'solarwinds123' | Techdirt](https://www.techdirt.com/articles/20201215/13203045893/security-researcher-reveals-solarwinds-update-server-was-secured-with-password-solarwinds123.shtml)
+* [You Should Probably Change Your Password! | Michael  McIntyre Netflix Special - YouTube](https://www.youtube.com/watch?v=aHaBH4LqGsI)
+* [Sysmon - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon)
+* [splunk/botsv1](https://github.com/splunk/botsv1)
+* [splunk/botsv2: Splunk Boss of the SOC version 2 dataset.](https://github.com/splunk/botsv2)
+* [splunk/botsv3: Splunk Boss of the SOC version 3 dataset.](https://github.com/splunk/botsv3)
+* [Enterprise Cybersecurity - Recon InfoSec](https://www.reconinfosec.com/)
+* [OpenSOC - Network Defense Simulation](https://opensoc.io/)
+* [Demystifying the Windows Firewall – Learn how to irritate attackers without crippling your network | New Zealand 2016 | Channel 9](https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M377)
+* [research/uniq-hostnames.txt at main · bambenek/research](https://github.com/bambenek/research/blob/main/sunburst/uniq-hostnames.txt)
+* [Windows Security Log Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/default.aspx)
+* [Detecting Kerberoasting Activity – Active Directory Security](https://adsecurity.org/?p=3458)
+* [Kerberos & Attacks 101 - SANS Institute](https://www.sans.org/webcasts/kerberos-attacks-101-111735)
+* [Basic Kerberos Authentication - YouTube](https://www.youtube.com/watch?v=u7MQoSN19O4)
+* [PowerPoint Presentation](https://www.redsiege.com/wp-content/uploads/2020/09/SIEGECAST-KERBEROS-AND-ATTACKS-101.pdf)
+* [SANS Webcast: Kerberos & Attacks 101 - YouTube](https://www.youtube.com/watch?v=LmbP-XD1SC8)
+* [Kerberos and Attacks 101 - Tim Medin - YouTube](https://www.youtube.com/watch?v=9lOFpUA25Nk)
+* [How To Disable LLMNR & Why You Want To - Black Hills Information Security](https://www.blackhillsinfosec.com/how-to-disable-llmnr-why-you-want-to/)
+* [Kerberos & Attacks 101 - YouTube](https://www.youtube.com/watch?v=IBeUz7zMN24&t=564s)
+* [Kerberos & Attacks 101 - YouTube](https://www.youtube.com/watch?v=IBeUz7zMN24)
+* [Proof-of-Concept Exploit Code for Kerberos Bronze Bit Attack Published - Binary Defense](https://www.binarydefense.com/threat_watch/proof-of-concept-exploit-code-for-kerberos-bronze-bit-attack-published/)
+* [Kerberoasting How To with Tim Medin - YouTube](https://www.youtube.com/watch?v=Jaa2LmZaNeU&feature=youtu.be)
+* [Unofficial Guide to Mimikatz & Command Reference – Active Directory Security](https://adsecurity.org/?p=2207)
+* [Mimikatz - Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/Mimikatz/)
+* [Prevent Windows from storing an LM hash of the password in AD and local SAM databases - Windows Server | Microsoft Docs](https://docs.microsoft.com/en-us/troubleshoot/windows-server/windows-security/prevent-windows-store-lm-hash-password)
+* [Collecting Process Start Events (4688) Without the Noise](https://support.logbinder.com/SuperchargerKB/50141/Collecting-Process-Start-Events-4688-Without-the-Noise)
+* [Set up PowerShell script block logging for added security](https://searchwindowsserver.techtarget.com/tutorial/Set-up-PowerShell-script-block-logging-for-added-security)
+* [Use Windows Event Forwarding to help with intrusion detection (Windows 10) - Windows security |Microsoft Docs](https://docs.microsoft.com/en-us/windows/security/threat-protection/use-windows-event-forwarding-to-assist-in-intrusion-detection)
+* [olafhartong/sysmon-modular: A repository of sysmon configuration modules](https://github.com/olafhartong/sysmon-modular)
+* [activecm/BeaKer: Beacon Kibana Executable Report(Aggregates Sysmon Network Events With Elasticsearch and Kibana](https://github.com/activecm/BeaKer)
+* [palantir/windows-event-forwarding: A repository for using windows event forwarding for incident detection and response](https://github.com/palantir/windows-event-forwarding)
+* [Applied Purple Teaming w/ Kent Ickler and Jordan Drysdale – (16 Hours) – Wild West Hackin' Fest](https://wildwesthackinfest.com/training/applied-purple-teaming/)
+* [How to Write Sigma Rules - Nextron Systems](https://www.nextron-systems.com/2018/02/10/write-sigma-rules/)
+* [How to Build an Active Directory Hacking Lab - YouTube](https://www.youtube.com/watch?v=xftEuVQ7kY0)
+* [Setting up Active Directory in Windows Server 2019 (Step By Step Guide) - YouTube](https://www.youtube.com/watch?v=h3sxduUt5a8)
+* [Sigma Rules Repository Mirror | TDM by SOC Prime](https://sigma.socprime.com/#!/)
+* [Accessing Event Data and Fields in the Configuration | Logstash Reference [7.10] | Elastic](https://www.elastic.co/guide/en/logstash/current/event-dependent-configuration.html)
+* [Filter plugins | Logstash Reference [7.10] | Elastic](https://www.elastic.co/guide/en/logstash/current/filter-plugins.html)
+* [AWS Penetration Testing](https://www.packtpub.com/security/aws-penetration-testing)
+* [sbousseaden/EVTX-ATTACK-SAMPLES: Windows Events Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES)
+* [Windows Security Log Event ID 4776 - The domain controller attempted to validate the credentials for an account](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/event.aspx?eventid=4776)
+* [Jump start with Docker · JPCERTCC/LogonTracer Wiki](https://github.com/JPCERTCC/LogonTracer/wiki/jump-start-with-docker)
+* [Attack Tactics 6: Return of the Blue Team - YouTube](https://www.youtube.com/watch?v=c7x5JsR16Qw&ab_channel=BlackHillsInformationSecurity)
+* [4724(S, F) An attempt was made to reset an account's password((Windows 10) - Windows security | Microsoft Docs](https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4724)
+* [Attack Tactics 7: The logs you are looking for - YouTube](https://www.youtube.com/watch?v=jL6Somex_58&list=PLqz80p7f6dFsaPX-eDVk8qDZAlGXW_VwW)
+* [Attack Tactics - YouTube](https://www.youtube.com/playlist?list=PLqz80p7f6dFsaPX-eDVk8qDZAlGXW_VwW)
+* [nathanmcnulty/Disable-NetBIOS.ps1 at master - nathanmcnulty/nathanmcnulty](https://github.com/nathanmcnulty/nathanmcnulty/blob/master/ActiveDirectory/Disable-NetBIOS.ps1)
+* [Beyond LLMNR/NBNS Spoofing – Exploiting Active Directory-Integrated DNS](https://blog.netspi.com/exploiting-adidns/)
+* [Memory Samples · volatilityfoundation/volatility Wiki](https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples)
+* [ATT&CK® EVALUATIONS](https://attackevals.mitre-engenuity.org/)
+
+Endpoint Protection Analysis
+
+Vulnerability Management
+
+
+
